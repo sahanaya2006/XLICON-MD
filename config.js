@@ -13,7 +13,7 @@ global.gurl = 'https://instagram.com/itz_shaikho/' // add your username
 global.sudo = process.env.SUDO || '94720797915' 
 global.devs = '94720797915';
 global.website = 'https://github.com/maduwa2006/XLICON-MD' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/3c341828d86ee7a89c73f.jpg'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://github.com/maduwa2006/My-logo/blob/main/Picsart_23-06-18_17-01-09-111.jpg'
 module.exports = {
   sessionName:  process.env.SESSION_ID ||  " ",  //PUT Session Id Here, 
   author:  process.env.PACK_AUTHER ||  'Sahan',
