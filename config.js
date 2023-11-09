@@ -13,7 +13,7 @@ global.gurl = 'https://instagram.com/itz_shaikho/' // add your username
 global.sudo = process.env.SUDO || '94720797915' 
 global.devs = '94720797915';
 global.website = 'https://github.com/maduwa2006/XLICON-MD' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://github.com/maduwa2006/My-logo/blob/main/Picsart_23-06-18_17-01-09-111.jpg'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://textpro.me/images/user_image/2023/11/654c4151abd60.jpg'
 module.exports = {
   sessionName:  process.env.SESSION_ID ||  " ",  //PUT Session Id Here, 
   author:  process.env.PACK_AUTHER ||  'Sahan',
@@ -42,7 +42,7 @@ module.exports = {
   HEROKU: {
     HEROKU: process.env.HEROKU ||true,
     API_KEY: process.env.HEROKU_API_KEY === undefined ? '2a81563d-23ef-4d9f-9d36-ebc71e6ab6bd' : process.env.HEROKU_API_KEY,
-    APP_NAME: process.env.HEROKU_APP_NAME === undefined ? 'charukasahan2006' : process.env.HEROKU_APP_NAME
+    APP_NAME: process.env.HEROKU_APP_NAME === undefined ? 'xlinco25' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
   LANG: process.env.THEME|| 'GOJO',
