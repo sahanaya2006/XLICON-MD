@@ -7,12 +7,12 @@ global.owner = process.env.OWNER_NUMBER || "94720797915"  // Make SURE its Not B
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Sahan:Sahan123456@cluster0.2s8k9t2.mongodb.net/"
 global.port= process.env.PORT || 5000
 global.email = 'sahanbot@gmail.com'
-global.github = 'https://github.com/maduwa2006/XLICON-MD'
+global.github = 'https://github.com/sahanaya2006/XLICON-MD'
 global.location = 'Lahore Pak'
 global.gurl = 'https://instagram.com/itz_shaikho/' // add your username
 global.sudo = process.env.SUDO || '94720797915' 
 global.devs = '94720797915';
-global.website = 'https://github.com/maduwa2006/XLICON-MD' //wa.me/+91000000000000
+global.website = 'https://github.com/sahanaya2006/XLICON-MD' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://textpro.me/images/user_image/2023/11/654c4151abd60.jpg'
 module.exports = {
   sessionName:  process.env.SESSION_ID ||  " ",  //PUT Session Id Here, 
